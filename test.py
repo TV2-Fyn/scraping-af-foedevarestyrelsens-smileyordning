@@ -170,17 +170,15 @@ def check_smiley(postnummer_lower, postnummer_upper):
 
     if changes_found is True:
         a = pd.DataFrame(sur_smiley_liste)
-        a.to_csv('./csv/smileyer.csv')
-        print("Added csv-file, because changes were found")
+        a.to_csv('csv/smileyer.csv')
 
     b = pd.DataFrame(ny_sur_smiley_liste)
-    b.to_csv("./csv/nye-sure-smileyer.csv")
-    print("added new smiley reports")
+    b.to_csv("csv/nye-sure-smileyer.csv")
+
 
     c = pd.DataFrame(ikke_sur_smiley_liste)
     c.to_csv("csv/ikke-sure-smileyer.csv")
-    print(c)
-    print("added ikke-sure-smileyer.csv")
+
 
     to_return = {
         "data": {
@@ -192,7 +190,6 @@ def check_smiley(postnummer_lower, postnummer_upper):
         "errors": errors
 }
 
-c = pd.DataFrame(["a","b"])
-c.to_csv("csv/ikke-sure-smileyer.csv")
+
         
 # check_smiley(4999,5999)
