@@ -178,7 +178,8 @@ def check_smiley(postnummer_lower, postnummer_upper):
     print("added new smiley reports")
 
     c = pd.DataFrame(ikke_sur_smiley_liste)
-    c.to_csv("./csv/ikke-sure-smileyer.csv")
+    c.to_csv("csv/ikke-sure-smileyer.csv")
+    print(c)
     print("added ikke-sure-smileyer.csv")
 
     to_return = {
@@ -191,5 +192,7 @@ def check_smiley(postnummer_lower, postnummer_upper):
         "errors": errors
 }
 
+c = pd.DataFrame("ikke_sur_smiley_liste")
+c.to_csv("csv/ikke-sure-smileyer.csv")
         
-check_smiley(4999,5999)
+# check_smiley(4999,5999)
