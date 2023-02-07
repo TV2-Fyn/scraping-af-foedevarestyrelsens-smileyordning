@@ -192,4 +192,4 @@ def check_smiley(postnummer_lower, postnummer_upper):
 
 
         
-# check_smiley(4999,5999)
+check_smiley(4999,5999)
