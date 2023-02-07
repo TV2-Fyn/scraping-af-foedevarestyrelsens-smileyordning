@@ -18,7 +18,8 @@ jobs:
         cache: 'pipenv'
     - run: pipenv install --python `which python`
     - name: Run scraper 
-      run: pipenv run jupyter execute smiley.ipynb
+      # run: pipenv run jupyter execute smiley.ipynb
+      run: pipenv run python test.py
     - name: Add and commit
       id: add_commit
       uses: EndBug/add-and-commit@v8
