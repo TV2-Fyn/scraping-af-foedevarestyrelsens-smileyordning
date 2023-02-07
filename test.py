@@ -192,7 +192,7 @@ def check_smiley(postnummer_lower, postnummer_upper):
         "errors": errors
 }
 
-c = pd.DataFrame("ikke_sur_smiley_liste")
+c = pd.DataFrame(["a","b"])
 c.to_csv("csv/ikke-sure-smileyer.csv")
         
 # check_smiley(4999,5999)
