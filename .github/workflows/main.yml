@@ -19,7 +19,7 @@ jobs:
     - run: pipenv install --python `which python`
     - name: Run scraper 
       # run: pipenv run jupyter execute smiley.ipynb
-      run: pipenv run python test.py
+      run: pipenv run python smiley.py
     - name: Git status
       run: git status
     - name: Add and commit
