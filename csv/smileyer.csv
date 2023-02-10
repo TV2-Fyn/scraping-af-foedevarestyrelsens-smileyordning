@@ -1,11 +1,10 @@
 ,cvrnr,pnr,navn,seneste_kontrol,kontrol_dato_str,navnelbnr,url,adresse,postnr,by
-0,42378542,1027152925,Tomato Pizza ,4,06-12-2022 00:00:00,1014914,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1014914,Kallerupvej 60,5230,Odense M
-1,28426283,1019779277,Chicago Burger ,4,25-01-2023 00:00:00,555370,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=555370,Åbakkevej 69,5210,Odense NV
-2,26458188,1002035312,HOTEL ÆRØHUS APS  26458188 ,4,20-09-2022 00:00:00,1223372,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1223372,Smedevejen 15,5970,Ærøskøbing
-3,43129805,1028089593,Isgrotten ,4,28-07-2022 00:00:00,1225711,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1225711,Adelgade 91,5400,Bogense
-4,31376300,1014366578,IS & SLIK HUSET ASSENS ,4,08-08-2022 00:00:00,748916,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=748916,Willemoesgade 2 ST,5610,Assens
-5,43476203,1028527760,Golden Doner  ,4,14-12-2022 00:00:00,1255857,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1255857,"Albanigade 54C, St",5000,Odense C
-6,28581017,1002755233,Kurts Peberrod Eftf. ,4,06-12-2022 00:00:00,80593,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=80593,H.C. Lumbyes Vej 50,5270,Odense N
-7,40757066,1024996847,Lin's Trading ApS ,4,15-12-2022 00:00:00,1252880,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1252880,Schnohrsvej 46,5900,Rudkøbing
-8,30529200,1013565135,Gundestrup Mejeri og Bryghus A/S Mejeriet,4,04-08-2022 00:00:00,82601,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=82601,Åbyvej 49,5762,Vester Skerninge
-9,48003516,1001906822,Finn Gramvad A/S ,4,13-12-2022 00:00:00,903394,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=903394,Vestre Havnevej 1,5400,Bogense
+0,30529200,1013565135,Gundestrup Mejeri og Bryghus A/S Mejeriet,4,04-08-2022 00:00:00,82601,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=82601,Åbyvej 49,5762,Vester Skerninge
+1,43476203,1028527760,Golden Doner  ,4,14-12-2022 00:00:00,1255857,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1255857,"Albanigade 54C, St",5000,Odense C
+2,28426283,1019779277,Chicago Burger ,4,25-01-2023 00:00:00,555370,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=555370,Åbakkevej 69,5210,Odense NV
+3,48003516,1001906822,Finn Gramvad A/S ,4,13-12-2022 00:00:00,903394,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=903394,Vestre Havnevej 1,5400,Bogense
+4,42378542,1027152925,Tomato Pizza ,4,06-12-2022 00:00:00,1014914,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1014914,Kallerupvej 60,5230,Odense M
+5,26458188,1002035312,HOTEL ÆRØHUS APS  26458188 ,4,20-09-2022 00:00:00,1223372,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1223372,Smedevejen 15,5970,Ærøskøbing
+6,31376300,1014366578,IS & SLIK HUSET ASSENS ,4,08-08-2022 00:00:00,748916,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=748916,Willemoesgade 2 ST,5610,Assens
+7,43129805,1028089593,Isgrotten ,4,28-07-2022 00:00:00,1225711,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1225711,Adelgade 91,5400,Bogense
+8,40757066,1024996847,Lin's Trading ApS ,4,15-12-2022 00:00:00,1252880,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1252880,Schnohrsvej 46,5900,Rudkøbing
