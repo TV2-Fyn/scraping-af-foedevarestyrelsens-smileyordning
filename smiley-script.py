@@ -1,12 +1,9 @@
 #Importer relevante biblioteker
 import requests
-import pickle
 from bs4 import BeautifulSoup
-import lxml
 import pandas as pd
 import csv
 import sys
-import json
 
 print("script is running")
 
@@ -20,7 +17,7 @@ def check_smiley(postnummer_lower, postnummer_upper):
     }
     
     # Sti til xml-fil fra Fødevarestyrelsen
-    url = "https://www.foedevarestyrelsen.dk/_layouts/15/sdata/smiley_xml.xml"
+    url = "https://www.foedevarestyrelsen.dk/Media/638212360788086849/Smiley_xml.xml"
   
     try:
         # Send request
