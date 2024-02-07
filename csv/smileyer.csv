@@ -1,13 +1,13 @@
 ,cvrnr,pnr,navn,seneste_kontrol,kontrol_dato_str,navnelbnr,url,adresse,postnr,by
-0,41052805,1027978904,MayMays ,4,04-10-2022 00:00:00,993223,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=993223,Østergade 1A  ,5881,Skårup Fyn
-1,42330434,1027090318,Fitness Direct A/S ,4,13-11-2023 00:00:00,1347558,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1347558,Hans Egedes Vej 9B  ,5210,Odense NV
-2,43567993,1028648118,Bulls Burger  Ved Odense Stadion,4,03-12-2023 00:00:00,1392788,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1392788,Højstrupvej  7  ,5200,Odense V
-3,38561960,1022353906,Torvebageriet Munkebo IVS ,4,03-01-2024 00:00:00,720686,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=720686,Bycentret 202  ,5330,Munkebo
-4,32146856,1015251456,REMA 1000 ,4,18-12-2023 00:00:00,924087,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=924087,Rugårdsvej 6B  ,5000,Odense C
-5,,,Else Rasmussen Sortebrødre Torv bod 14 ,4,10-01-2024 00:00:00,1244268,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1244268,Bogensevej 25  ,5464,Brenderup Fyn
-6,42528005,1027355788,Adam minimarked ,4,06-12-2023 00:00:00,1339885,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1339885,Bredgade 12 0 0,5450,Otterup
-7,36473959,1020009299,Jacobs Douwe Egberts Professional DK ApS ,4,18-12-2023 00:00:00,566775,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=566775,Nyvang 16  ,5500,Middelfart
-8,41814209,1029828810,Aladdin Restaurant Odense ,4,07-12-2023 00:00:00,1340241,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1340241,Skibhusvej 94 st. ,5000,Odense C
-9,41003030,1025326063,Lørups Vinstue ,4,10-01-2024 00:00:00,962725,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=962725,Claus Bergs Gade 5B 1 tv,5000,Odense C
-10,44217538,1029526547,Fyret Pizza ,4,13-12-2023 00:00:00,1387304,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1387304,Vestergade 20  ,5500,Middelfart
-11,42545090,1028799604,Steensgaard Slagteren Assens ,4,18-01-2024 00:00:00,1270395,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1270395,Østergade 52  ,5610,Assens
+0,44217538,1029526547,Fyret Pizza ,4,13-12-2023 00:00:00,1387304,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1387304,Vestergade 20  ,5500,Middelfart
+1,41814209,1029828810,Aladdin Restaurant Odense ,4,07-12-2023 00:00:00,1340241,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1340241,Skibhusvej 94 st. ,5000,Odense C
+2,42545090,1028799604,Steensgaard Slagteren Assens ,4,18-01-2024 00:00:00,1270395,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1270395,Østergade 52  ,5610,Assens
+3,41052805,1027978904,MayMays ,4,04-10-2022 00:00:00,993223,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=993223,Østergade 1A  ,5881,Skårup Fyn
+4,42330434,1027090318,Fitness Direct A/S ,4,13-11-2023 00:00:00,1347558,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1347558,Hans Egedes Vej 9B  ,5210,Odense NV
+5,43567993,1028648118,Bulls Burger  Ved Odense Stadion,4,03-12-2023 00:00:00,1392788,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1392788,Højstrupvej  7  ,5200,Odense V
+6,38561960,1022353906,Torvebageriet Munkebo IVS ,4,03-01-2024 00:00:00,720686,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=720686,Bycentret 202  ,5330,Munkebo
+7,32146856,1015251456,REMA 1000 ,4,18-12-2023 00:00:00,924087,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=924087,Rugårdsvej 6B  ,5000,Odense C
+8,,,Else Rasmussen Sortebrødre Torv bod 14 ,4,10-01-2024 00:00:00,1244268,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1244268,Bogensevej 25  ,5464,Brenderup Fyn
+9,42528005,1027355788,Adam minimarked ,4,06-12-2023 00:00:00,1339885,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1339885,Bredgade 12 0 0,5450,Otterup
+10,41003030,1025326063,Lørups Vinstue ,4,10-01-2024 00:00:00,962725,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=962725,Claus Bergs Gade 5B 1 tv,5000,Odense C
+11,41021195,1025422364,Sushi Daily Odense ,4,25-01-2024 00:00:00,930129,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=930129,Niels Bohrs Allé 150  ,5230,Odense M
