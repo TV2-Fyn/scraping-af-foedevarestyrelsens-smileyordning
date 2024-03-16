@@ -1,13 +1,12 @@
 ,cvrnr,pnr,navn,seneste_kontrol,kontrol_dato_str,navnelbnr,url,adresse,postnr,by
-0,38019767,1021767839,Erfan (Crispy House) ,4,07-02-2024 00:00:00,670291,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=670291,Rømersvej 8  ,5200,Odense V
-1,43567993,1028648118,Bulls Burger  Ved Odense Stadion,4,03-12-2023 00:00:00,1392788,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1392788,Højstrupvej  7  ,5200,Odense V
-2,41814209,1029828810,Aladdin Restaurant Odense ,4,30-01-2024 00:00:00,1340241,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1340241,Skibhusvej 94 st. ,5000,Odense C
-3,41052805,1027978904,MayMays ,4,04-10-2022 00:00:00,993223,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=993223,Østergade 1A  ,5881,Skårup Fyn
-4,42330434,1027090318,Fitness Direct A/S ,4,13-11-2023 00:00:00,1347558,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1347558,Hans Egedes Vej 9B  ,5210,Odense NV
-5,42528005,1027355788,Adam minimarked ,4,06-12-2023 00:00:00,1339885,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1339885,Bredgade 12 0 0,5450,Otterup
-6,40576967,1024773783,Great Nordic ApS ,4,20-11-2023 00:00:00,995858,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=995858,Søndergårdsværnget 20  ,5450,Otterup
-7,,,Else Rasmussen Sortebrødre Torv bod 14 ,4,10-01-2024 00:00:00,1244268,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1244268,Bogensevej 25  ,5464,Brenderup Fyn
-8,28655169,1006372264,ODENSE MULTI FOOD ApS ,4,12-02-2024 00:00:00,565678,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=565678,Kildemosevej 21  ,5000,Odense C
-9,38597000,1023807226,Aarup Stenovns Pizza ,4,08-02-2024 00:00:00,758856,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=758856,Bredgade 22  ,5560,Aarup
-10,41021195,1025422364,Sushi Daily Odense ,4,25-01-2024 00:00:00,930129,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=930129,Niels Bohrs Allé 150  ,5230,Odense M
-11,15088990,1000857789,Jimbo’s kaffe bar  ,4,30-01-2024 00:00:00,806856,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=806856,Nørregade 11B  ,5800,Nyborg
+0,42528005,1027355788,Adam minimarked ,4,06-12-2023 00:00:00,1339885,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1339885,Bredgade 12 0 0,5450,Otterup
+1,,,Else Rasmussen Sortebrødre Torv bod 14 ,4,10-01-2024 00:00:00,1244268,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1244268,Bogensevej 25  ,5464,Brenderup Fyn
+2,40576967,1024773783,Great Nordic ApS ,4,20-11-2023 00:00:00,995858,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=995858,Søndergårdsværnget 20  ,5450,Otterup
+3,28655169,1006372264,ODENSE MULTI FOOD ApS ,4,12-02-2024 00:00:00,565678,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=565678,Kildemosevej 21  ,5000,Odense C
+4,41021195,1025422364,Sushi Daily Odense ,4,25-01-2024 00:00:00,930129,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=930129,Niels Bohrs Allé 150  ,5230,Odense M
+5,43567993,1028648118,Bulls Burger  Ved Odense Stadion,4,03-12-2023 00:00:00,1392788,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1392788,Højstrupvej  7  ,5200,Odense V
+6,15088990,1000857789,Jimbo’s kaffe bar  ,4,30-01-2024 00:00:00,806856,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=806856,Nørregade 11B  ,5800,Nyborg
+7,38019767,1021767839,Erfan (Crispy House) ,4,07-02-2024 00:00:00,670291,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=670291,Rømersvej 8  ,5200,Odense V
+8,41814209,1029828810,Aladdin Restaurant Odense ,4,30-01-2024 00:00:00,1340241,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1340241,Skibhusvej 94 st. ,5000,Odense C
+9,41052805,1027978904,MayMays ,4,04-10-2022 00:00:00,993223,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=993223,Østergade 1A  ,5881,Skårup Fyn
+10,42330434,1027090318,Fitness Direct A/S ,4,13-11-2023 00:00:00,1347558,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1347558,Hans Egedes Vej 9B  ,5210,Odense NV
