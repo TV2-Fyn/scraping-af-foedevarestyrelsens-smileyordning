@@ -1,12 +1,13 @@
 ,cvrnr,pnr,navn,seneste_kontrol,kontrol_dato_str,navnelbnr,url,adresse,postnr,by
-0,36715936,1028456677,Baks Bakery & Deli ,4,12-11-2024 00:00:00,1246870,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1246870,Industrivej 6  ,5580,Nørre Aaby
-1,35954716,1003224989,Bilka 1654 Bager,4,06-11-2024 00:00:00,79726,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=79726,Niels Bohrs Allé  150  ,5230,Odense M
-2,39453975,1023485237,Bellinge Nærkøb ApS ,4,04-11-2024 00:00:00,760215,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=760215,Brændekildevej 17  ,5250,Odense SV
-3,48327915,1003091045,"Samsø Konserveslager, Odense ",4,12-09-2024 00:00:00,81286,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=81286,Holkebjergvej  91  ,5250,Odense SV
-4,43938207,1029154070,Bui Hotel Humble ApS ,4,14-11-2024 00:00:00,1441504,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1441504,Ristingevej 2  ,5932,Humble
-5,24234592,1006434023,ORIENTAL BARBEQUE HOUSE ApS v/Xiao Hui Yan,4,31-10-2024 00:00:00,79720,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=79720,Slotsgade  20  tv,5000,Odense C
-6,37417734,1021116013,Tranekær Slotskro ,4,18-09-2024 00:00:00,950210,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=950210,Slotsgade 74  ,5953,Tranekær
-7,41820322,1026501926,Stop Stedet Pizza&Grill ,4,14-03-2024 00:00:00,968628,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=968628,Nyborgvej 438 0 1,5881,Skårup Fyn
-8,45050580,1030634124,Byens Take Away ,4,14-11-2024 00:00:00,1457611,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1457611,Hessgade 18  ,5500,Middelfart
-9,27910904,1013531850,Walthers Dinner ApS ,4,30-10-2024 00:00:00,506741,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=506741,Kragsbjergvej 84  ,5000,Odense C
-10,15256389,1020797750,Mariendal ,4,17-10-2024 00:00:00,1115074,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1115074,Nørrevej 10  ,5943,
+0,27910904,1013531850,Walthers Dinner ApS ,4,30-10-2024 00:00:00,506741,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=506741,Kragsbjergvej 84  ,5000,Odense C
+1,37417734,1021116013,Tranekær Slotskro ,4,18-09-2024 00:00:00,950210,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=950210,Slotsgade 74  ,5953,Tranekær
+2,15256389,1020797750,Mariendal ,4,17-10-2024 00:00:00,1115074,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1115074,Nørrevej 10  ,5943,
+3,34169411,1030502325,Nevo Food ,4,21-11-2024 00:00:00,1447062,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1447062,Heliosvænget 10  ,5250,Odense SV
+4,35954716,1003224989,Bilka 1654 Bager,4,06-11-2024 00:00:00,79726,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=79726,Niels Bohrs Allé  150  ,5230,Odense M
+5,36715936,1028456677,Baks Bakery & Deli ,4,12-11-2024 00:00:00,1246870,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1246870,Industrivej 6  ,5580,Nørre Aaby
+6,39453975,1023485237,Bellinge Nærkøb ApS ,4,04-11-2024 00:00:00,760215,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=760215,Brændekildevej 17  ,5250,Odense SV
+7,48327915,1003091045,"Samsø Konserveslager, Odense ",4,12-09-2024 00:00:00,81286,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=81286,Holkebjergvej  91  ,5250,Odense SV
+8,24234592,1006434023,ORIENTAL BARBEQUE HOUSE ApS v/Xiao Hui Yan,4,31-10-2024 00:00:00,79720,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=79720,Slotsgade  20  tv,5000,Odense C
+9,43938207,1029154070,Bui Hotel Humble ApS ,4,14-11-2024 00:00:00,1441504,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1441504,Ristingevej 2  ,5932,Humble
+10,45050580,1030634124,Byens Take Away ,4,14-11-2024 00:00:00,1457611,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1457611,Hessgade 18  ,5500,Middelfart
+11,41820322,1026501926,Stop Stedet Pizza&Grill ,4,14-03-2024 00:00:00,968628,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=968628,Nyborgvej 438 0 1,5881,Skårup Fyn
