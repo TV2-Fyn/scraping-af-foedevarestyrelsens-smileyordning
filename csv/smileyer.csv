@@ -1,14 +1,12 @@
 ,cvrnr,pnr,navn,seneste_kontrol,kontrol_dato_str,navnelbnr,url,adresse,postnr,by
 0,10639476,1002998089,GASA Odense Frugt - Grønt A.m.b.a. ,4,03-10-2024 00:00:00,1013461,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1013461,Hvilehøjvej 23  ,5220,Odense SØ
 1,13705437,1022146633,Johansens Vinhandel v/ Egon Aaberg Butik 09,4,20-11-2024 00:00:00,81068,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=81068,Ørbækvej  75  ,5220,Odense SØ
-2,38561405,1023969218,AM Food ,4,19-12-2024 00:00:00,763561,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=763561,Vibekevej 13  ,5250,Odense SV
-3,42903906,1027813182,Frugt og Grønt ,4,09-12-2024 00:00:00,1205953,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1205953,Østergade 36 st ,5500,Middelfart
-4,44208172,1029820674,Papa Cucina Kongensgade ,4,03-12-2024 00:00:00,1401202,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1401202,Kongensgade 59 st ,5000,Odense C
-5,30266471,1015651039,Sushi Insu ,4,03-12-2024 00:00:00,930740,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=930740,Hjallesevej 12  ,5000,Odense C
-6,41820322,1026501926,Stop Stedet Pizza&Grill ,4,14-03-2024 00:00:00,968628,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=968628,Nyborgvej 438 0 1,5881,Skårup Fyn
-7,27910904,1013531850,Walthers Dinner ApS ,4,30-10-2024 00:00:00,506741,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=506741,Kragsbjergvej 84  ,5000,Odense C
-8,37417734,1021116013,Tranekær Slotskro ,4,18-09-2024 00:00:00,950210,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=950210,Slotsgade 74  ,5953,Tranekær
-9,32487491,1015625852,Verninge Forsamlingshus v/ Bente Sørensen,4,10-12-2024 00:00:00,82568,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=82568,Fuglekildevej  85  ,5690,Tommerup
-10,21810487,1005223711,RESTAURANT RUDOLF MATHIS APS ,4,26-11-2024 00:00:00,80348,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=80348,Dosseringen  13  ,5300,Kerteminde
-11,14295674,1016989459,Kappendrup Slagteren v/ Lars Lauritsen,4,17-12-2024 00:00:00,129459,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=129459,Kappendrup  12  ,5450,Otterup
-12,15256389,1020797750,Mariendal ,4,17-10-2024 00:00:00,1115074,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1115074,Nørrevej 10  ,5943,
+2,42903906,1027813182,Frugt og Grønt ,4,09-12-2024 00:00:00,1205953,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1205953,Østergade 36 st ,5500,Middelfart
+3,38561405,1023969218,AM Food ,4,19-12-2024 00:00:00,763561,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=763561,Vibekevej 13  ,5250,Odense SV
+4,32487491,1015625852,Verninge Forsamlingshus v/ Bente Sørensen,4,10-12-2024 00:00:00,82568,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=82568,Fuglekildevej  85  ,5690,Tommerup
+5,37417734,1021116013,Tranekær Slotskro ,4,18-09-2024 00:00:00,950210,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=950210,Slotsgade 74  ,5953,Tranekær
+6,21810487,1005223711,RESTAURANT RUDOLF MATHIS APS ,4,26-11-2024 00:00:00,80348,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=80348,Dosseringen  13  ,5300,Kerteminde
+7,30266471,1015651039,Sushi Insu ,4,03-12-2024 00:00:00,930740,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=930740,Hjallesevej 12  ,5000,Odense C
+8,41820322,1026501926,Stop Stedet Pizza&Grill ,4,14-03-2024 00:00:00,968628,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=968628,Nyborgvej 438 0 1,5881,Skårup Fyn
+9,14295674,1016989459,Kappendrup Slagteren v/ Lars Lauritsen,4,17-12-2024 00:00:00,129459,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=129459,Kappendrup  12  ,5450,Otterup
+10,15256389,1020797750,Mariendal ,4,17-10-2024 00:00:00,1115074,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1115074,Nørrevej 10  ,5943,
