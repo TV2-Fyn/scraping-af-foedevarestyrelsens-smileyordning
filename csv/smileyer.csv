@@ -1,13 +1,12 @@
 ,cvrnr,pnr,navn,seneste_kontrol,kontrol_dato_str,navnelbnr,url,adresse,postnr,by
-0,40032673,1024144999,Mango Bazar Fyn ,4,08-04-2025 00:00:00,950873,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=950873,Middelfartvej 123  ,5200,Odense V
-1,11517498,1017709859,365discount Middelfart Butik 224,4,10-04-2025 00:00:00,130125,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=130125,Jernbanegade  2  D  ,5500,Middelfart
-2,29189684,1003308751,Vestbo Skovbakken Bygning nr. 4,4,14-03-2025 00:00:00,514695,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=514695,Stationsvej 24  ,5464,Brenderup Fyn
-3,37417734,1021116013,Tranekær Slotskro ,4,18-09-2024 00:00:00,950210,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=950210,Slotsgade 74  ,5953,Tranekær
-4,37433918,1027918626,Pizzariom ,4,29-08-2024 00:00:00,1248110,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1248110,Adelgade 97  ,5400,Bogense
-5,28146604,1010333446,Mørkenborg Kro Stillebæk ApS ,4,21-03-2025 00:00:00,82340,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=82340,Rugårdsvej  831  ,5474,Veflinge
-6,29029385,1009062005,Christians Madhus ,4,29-04-2025 00:00:00,763365,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=763365,Tvedvej  29 st. ,5700,Svendborg
-7,44208172,1029820674,Papa Cucina Kongensgade ,4,19-03-2025 00:00:00,1401202,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1401202,Kongensgade 59 st ,5000,Odense C
-8,29125562,1011927404,Skårup Pizza & Kebab House ,4,13-02-2025 00:00:00,540570,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=540570,Østergade  20  ,5881,Skårup Fyn
-9,43132911,1003072935,SuperBrugsen Slagter/delikatesse,4,28-04-2025 00:00:00,79597,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=79597,Ahlefeldtsgade  5  ,5900,Rudkøbing
-10,15256389,1020797750,Mariendal ,4,17-10-2024 00:00:00,1115074,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1115074,Nørrevej 10  ,5943,
-11,45066592,,Southern Food ,4,08-05-2025 00:00:00,1477831,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1477831,Møllevej 21  ,5471,Søndersø
+0,11517498,1017709859,365discount Middelfart Butik 224,4,10-04-2025 00:00:00,130125,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=130125,Jernbanegade  2  D  ,5500,Middelfart
+1,37433918,1027918626,Pizzariom ,4,29-08-2024 00:00:00,1248110,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1248110,Adelgade 97  ,5400,Bogense
+2,29125562,1011927404,Skårup Pizza & Kebab House ,4,13-02-2025 00:00:00,540570,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=540570,Østergade  20  ,5881,Skårup Fyn
+3,44208172,1029820674,Papa Cucina Kongensgade ,4,19-03-2025 00:00:00,1401202,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1401202,Kongensgade 59 st ,5000,Odense C
+4,44075571,1029342578,Adios Burgers ,4,03-05-2025 00:00:00,1356432,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1356432,Frederiksgade 13 kld ,5700,Svendborg
+5,37417734,1021116013,Tranekær Slotskro ,4,18-09-2024 00:00:00,950210,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=950210,Slotsgade 74  ,5953,Tranekær
+6,28146604,1010333446,Mørkenborg Kro Stillebæk ApS ,4,21-03-2025 00:00:00,82340,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=82340,Rugårdsvej  831  ,5474,Veflinge
+7,29029385,1009062005,Christians Madhus ,4,29-04-2025 00:00:00,763365,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=763365,Tvedvej  29 st. ,5700,Svendborg
+8,43132911,1003072935,SuperBrugsen Slagter/delikatesse,4,28-04-2025 00:00:00,79597,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=79597,Ahlefeldtsgade  5  ,5900,Rudkøbing
+9,15256389,1020797750,Mariendal ,4,25-03-2025 00:00:00,1115074,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1115074,Nørrevej 10  ,5943,
+10,45066592,,Southern Food ,4,08-05-2025 00:00:00,1477831,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1477831,Møllevej 21  ,5471,Søndersø
