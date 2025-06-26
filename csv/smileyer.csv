@@ -1,13 +1,11 @@
 ,cvrnr,pnr,navn,seneste_kontrol,kontrol_dato_str,navnelbnr,url,adresse,postnr,by
 0,34169411,1030502325,Nevo Food ,4,03-06-2025 00:00:00,1447062,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1447062,Heliosvænget 10  ,5250,Odense SV
-1,44208172,1029820674,Papa Cucina Kongensgade ,4,20-05-2025 00:00:00,1401202,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1401202,Kongensgade 59 st ,5000,Odense C
-2,29125562,1011927404,Skårup Pizza & Kebab House ,4,08-05-2025 00:00:00,540570,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=540570,Østergade  20  ,5881,Skårup Fyn
-3,43298461,1028297714,á la maison dining ,4,06-05-2025 00:00:00,1404447,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1404447,Gammel Højmevej 66  ,5250,Odense SV
-4,37433918,1027918626,Pizzariom ,4,29-08-2024 00:00:00,1248110,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1248110,Adelgade 97  ,5400,Bogense
-5,39815842,1024847264,FGU Nyborg ,4,19-05-2025 00:00:00,1466571,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1466571,Lindholm Havnevej 33  ,5800,Nyborg
-6,15498773,1023510428,KFC - Odense ,4,02-06-2025 00:00:00,742308,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=742308,Ejbygade 2  ,5220,Odense SØ
-7,42318000,1027209749,Chili Lunch ,4,22-04-2025 00:00:00,992473,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=992473,Østergade 1C st ,5600,Faaborg
-8,29269092,,Keramik og Kaffe ,4,13-06-2025 00:00:00,1471956,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1471956,Tinghusgade 20A  ,5700,Svendborg
-9,43476203,1028527760,Golden Doner  ,4,28-05-2025 00:00:00,1255857,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1255857,Albanigade 54C St ,5000,Odense C
-10,15256389,1020797750,Mariendal ,4,13-05-2025 00:00:00,1115074,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1115074,Nørrevej 10  ,5943,
-11,31173353,1014091129,The Brew Company A/S ,4,19-05-2025 00:00:00,83634,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=83634,Kasmosevej  3  ,5500,Middelfart
+1,43298461,1028297714,á la maison dining ,4,06-05-2025 00:00:00,1404447,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1404447,Gammel Højmevej 66  ,5250,Odense SV
+2,44208172,1029820674,Papa Cucina Kongensgade ,4,20-05-2025 00:00:00,1401202,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1401202,Kongensgade 59 st ,5000,Odense C
+3,29125562,1011927404,Skårup Pizza & Kebab House ,4,08-05-2025 00:00:00,540570,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=540570,Østergade  20  ,5881,Skårup Fyn
+4,15498773,1023510428,KFC - Odense ,4,02-06-2025 00:00:00,742308,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=742308,Ejbygade 2  ,5220,Odense SØ
+5,29269092,,Keramik og Kaffe ,4,13-06-2025 00:00:00,1471956,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1471956,Tinghusgade 20A  ,5700,Svendborg
+6,37433918,1027918626,Pizzariom ,4,29-08-2024 00:00:00,1248110,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1248110,Adelgade 97  ,5400,Bogense
+7,43476203,1028527760,Golden Doner  ,4,28-05-2025 00:00:00,1255857,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1255857,Albanigade 54C St ,5000,Odense C
+8,15256389,1020797750,Mariendal ,4,13-05-2025 00:00:00,1115074,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1115074,Nørrevej 10  ,5943,
+9,31173353,1014091129,The Brew Company A/S ,4,19-05-2025 00:00:00,83634,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=83634,Kasmosevej  3  ,5500,Middelfart
