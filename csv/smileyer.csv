@@ -1,13 +1,14 @@
 ,cvrnr,pnr,navn,seneste_kontrol,kontrol_dato_str,navnelbnr,url,adresse,postnr,by
-0,37433918,1027918626,Pizzariom ,4,29-08-2024 00:00:00,1248110,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1248110,Adelgade 97  ,5400,Bogense
-1,45473384,1031168712,Wok Day ,4,31-07-2025 00:00:00,1484049,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1484049,Grønløkkevej 4  ,5000,Odense C
-2,37579076,1031326172,Burger street ,4,22-08-2025 00:00:00,1483494,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1483494,Vindegade 53D  ,5000,Odense C
-3,29125562,1011927404,Skårup Pizza & Kebab House ,4,03-06-2025 00:00:00,540570,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=540570,Østergade  20  ,5881,Skårup Fyn
-4,41104341,1025483789,Strandcafeen Hesselbjerg  ,4,05-08-2025 00:00:00,941366,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=941366,Østersøvej 12  ,5932,Humble
-5,33292945,1016523352,Twister v/ Samy Abdo,4,16-07-2025 00:00:00,124526,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=124526,Jernbanegade  16  ,5000,Odense C
-6,15498773,1023510428,KFC - Odense ,4,02-06-2025 00:00:00,742308,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=742308,Ejbygade 2  ,5220,Odense SØ
-7,26259495,1003076723,SuperBrugsen Dagligvarer,4,29-08-2025 00:00:00,80532,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=80532,Vestergade  76  ,5000,Odense C
-8,34169411,1030502325,Nevo Food ,4,31-07-2025 00:00:00,1447062,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1447062,Heliosvænget 10  ,5250,Odense SV
-9,40032673,1024144999,Mango Bazar Fyn ,4,28-08-2025 00:00:00,950873,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=950873,Middelfartvej 123  ,5200,Odense V
-10,35209115,1017581380,"5 - Dagtilbud, Elverhaven Børnehus ",4,11-08-2025 00:00:00,772411,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=772411,Ravnebjerggyden 78A  ,5491,Blommelyst
-11,45226662,1030856755,De 7 Smil - Bogense Hotel ApS ,4,22-08-2025 00:00:00,1462917,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1462917,Adelgade 56  ,5400,Bogense
+0,26259495,1003076723,SuperBrugsen Dagligvarer,4,29-08-2025 00:00:00,80532,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=80532,Vestergade  76  ,5000,Odense C
+1,40032673,1024144999,Mango Bazar Fyn ,4,28-08-2025 00:00:00,950873,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=950873,Middelfartvej 123  ,5200,Odense V
+2,34169411,1030502325,Nevo Food ,4,31-07-2025 00:00:00,1447062,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1447062,Heliosvænget 10  ,5250,Odense SV
+3,35209115,1017581380,"5 - Dagtilbud, Elverhaven Børnehus ",4,11-08-2025 00:00:00,772411,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=772411,Ravnebjerggyden 78A  ,5491,Blommelyst
+4,45226662,1030856755,De 7 Smil - Bogense Hotel ApS ,4,22-08-2025 00:00:00,1462917,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1462917,Adelgade 56  ,5400,Bogense
+5,37433918,1027918626,Pizzariom ,4,29-08-2024 00:00:00,1248110,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1248110,Adelgade 97  ,5400,Bogense
+6,41104341,1025483789,Strandcafeen Hesselbjerg  ,4,05-08-2025 00:00:00,941366,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=941366,Østersøvej 12  ,5932,Humble
+7,29125562,1011927404,Skårup Pizza & Kebab House ,4,03-06-2025 00:00:00,540570,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=540570,Østergade  20  ,5881,Skårup Fyn
+8,40346163,1024508494,Chick´n Winner v/ Thi Diem Trinh Tran ,4,09-09-2025 00:00:00,796798,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=796798,Skibhusvej 66  ,5000,Odense C
+9,37579076,1031326172,Burger street ,4,22-08-2025 00:00:00,1483494,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1483494,Vindegade 53D  ,5000,Odense C
+10,45473384,1031168712,Wok Day ,4,31-07-2025 00:00:00,1484049,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1484049,Grønløkkevej 4  ,5000,Odense C
+11,33292945,1016523352,Twister v/ Samy Abdo,4,16-07-2025 00:00:00,124526,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=124526,Jernbanegade  16  ,5000,Odense C
+12,15498773,1023510428,KFC - Odense ,4,02-06-2025 00:00:00,742308,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=742308,Ejbygade 2  ,5220,Odense SØ
