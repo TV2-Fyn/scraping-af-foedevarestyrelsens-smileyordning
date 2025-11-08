@@ -1,11 +1,10 @@
 ,cvrnr,pnr,navn,seneste_kontrol,kontrol_dato_str,navnelbnr,url,adresse,postnr,by
 0,44590921,1030039374,Tanken og Bageri Stige ApS ,4,02-10-2025 00:00:00,1415143,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1415143,Stigevej 236  ,5270,Odense N
 1,41925345,1026564022,Kagegrisen.dk ApS ,4,16-09-2025 00:00:00,1241619,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1241619,Industrivej  1B  ,5853,Ørbæk
-2,41583991,1026118707,Bazar Øst ApS ,4,07-10-2025 00:00:00,1344451,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1344451,Risingsvej 142  ,5240,Odense NØ
-3,37433918,1027918626,Pizzariom ,4,29-08-2024 00:00:00,1248110,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1248110,Adelgade 97  ,5400,Bogense
-4,10488346,1003945481,Sukkerfabrikken  ,4,30-10-2025 00:00:00,83889,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=83889,Slotsgade  76  ,5953,Tranekær
-5,41104341,1025483789,Strandcafeen Hesselbjerg  ,4,05-08-2025 00:00:00,941366,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=941366,Østersøvej 12  ,5932,Humble
-6,37579076,1021302046,Grill & Indian Tasty ,4,02-10-2025 00:00:00,645137,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=645137,Søndergade 1  ,5000,Odense C
-7,37579076,1031326172,Burger street ,4,22-08-2025 00:00:00,1483494,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1483494,Vindegade 53D  ,5000,Odense C
-8,31113288,1023110683,Samsted ,4,22-09-2025 00:00:00,749125,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=749125,Korsbjergvej 40  ,5500,Middelfart
-9,83543728,1016251565,Ærø Raps v/ Svend Aage Secher,4,16-10-2025 00:00:00,81308,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=81308,Skovby Skolevej  2  ,5985,Søby Ærø
+2,37579076,1021302046,Grill & Indian Tasty ,4,02-10-2025 00:00:00,645137,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=645137,Søndergade 1  ,5000,Odense C
+3,41104341,1025483789,Strandcafeen Hesselbjerg  ,4,05-08-2025 00:00:00,941366,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=941366,Østersøvej 12  ,5932,Humble
+4,31113288,1023110683,Samsted ,4,22-09-2025 00:00:00,749125,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=749125,Korsbjergvej 40  ,5500,Middelfart
+5,10488346,1003945481,Sukkerfabrikken  ,4,30-10-2025 00:00:00,83889,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=83889,Slotsgade  76  ,5953,Tranekær
+6,37579076,1031326172,Burger street ,4,22-08-2025 00:00:00,1483494,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1483494,Vindegade 53D  ,5000,Odense C
+7,37433918,1027918626,Pizzariom ,4,29-08-2024 00:00:00,1248110,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1248110,Adelgade 97  ,5400,Bogense
+8,83543728,1016251565,Ærø Raps v/ Svend Aage Secher,4,16-10-2025 00:00:00,81308,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=81308,Skovby Skolevej  2  ,5985,Søby Ærø
