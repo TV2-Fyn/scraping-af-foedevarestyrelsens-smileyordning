@@ -1,13 +1,12 @@
 ,cvrnr,pnr,navn,seneste_kontrol,kontrol_dato_str,navnelbnr,url,adresse,postnr,by
-0,10488346,1003945481,Sukkerfabrikken  ,4,30-10-2025 00:00:00,83889,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=83889,Slotsgade  76  ,5953,Tranekær
-1,41104341,1025483789,Strandcafeen Hesselbjerg  ,4,05-08-2025 00:00:00,941366,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=941366,Østersøvej 12  ,5932,Humble
-2,45993698,1031816862,Gøgis Pizza & Grill ,4,18-03-2026 00:00:00,1512942,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1512942,Kobberbæksvej 1 1 ,5700,Svendborg
+0,42390690,1027165881,Snamix ApS ,4,27-03-2026 00:00:00,1205826,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1205826,Peter Willemoes Vej 129  ,5220,Odense SØ
+1,45579697,1031295528,Dania Frugt ApS ,4,06-01-2026 00:00:00,1486043,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1486043,Middelfartvej 123  ,5200,Odense V
+2,40032673,1024144999,Mango Bazar Fyn ,4,07-10-2025 00:00:00,950873,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=950873,Middelfartvej 123  ,5200,Odense V
 3,45357260,1031025911,City Biksen ,4,10-03-2026 00:00:00,1481183,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1481183,Rugløkkevej 16  ,5240,Odense NØ
-4,42390690,1027165881,Snamix ApS ,4,27-03-2026 00:00:00,1205826,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1205826,Peter Willemoes Vej 129  ,5220,Odense SØ
-5,45579697,1031295528,Dania Frugt ApS ,4,06-01-2026 00:00:00,1486043,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1486043,Middelfartvej 123  ,5200,Odense V
-6,40032673,1024144999,Mango Bazar Fyn ,4,07-10-2025 00:00:00,950873,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=950873,Middelfartvej 123  ,5200,Odense V
-7,29188947,1008453450,"Vesterbo Plejecenter, Hus 6 og 7 ",4,27-02-2026 00:00:00,81525,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=81525,Vesterled  22-102  ,5471,Søndersø
-8,36127260,1028346480,FarsFedeFoodtruck ,4,13-03-2026 00:00:00,1248442,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1248442,Stenløkkeparken 76  ,5450,Otterup
-9,44309718,1029646968,Apm madglæde ,4,17-03-2026 00:00:00,1410776,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1410776,Møllervej 2  ,5800,Nyborg
-10,30884507,1013753632,Dang Ved Brønden ,4,19-03-2026 00:00:00,83527,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=83527,Torvet  5  ,5600,Faaborg
-11,44075571,1029790996,Kaplan Pizza ,4,03-03-2026 00:00:00,1357610,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1357610,Frederiksgade 11C  ,5700,Svendborg
+4,29188947,1008453450,"Vesterbo Plejecenter, Hus 6 og 7 ",4,27-02-2026 00:00:00,81525,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=81525,Vesterled  22-102  ,5471,Søndersø
+5,45993698,1031816862,Gøgis Pizza & Grill ,4,18-03-2026 00:00:00,1512942,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1512942,Kobberbæksvej 1 1 ,5700,Svendborg
+6,30884507,1013753632,Dang Ved Brønden ,4,19-03-2026 00:00:00,83527,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=83527,Torvet  5  ,5600,Faaborg
+7,44075571,1029790996,Kaplan Pizza ,4,03-03-2026 00:00:00,1357610,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1357610,Frederiksgade 11C  ,5700,Svendborg
+8,44309718,1029646968,Apm madglæde ,4,17-03-2026 00:00:00,1410776,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1410776,Møllervej 2  ,5800,Nyborg
+9,41104341,1025483789,Strandcafeen Hesselbjerg  ,4,05-08-2025 00:00:00,941366,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=941366,Østersøvej 12  ,5932,Humble
+10,36127260,1028346480,FarsFedeFoodtruck ,4,13-03-2026 00:00:00,1248442,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1248442,Stenløkkeparken 76  ,5450,Otterup
