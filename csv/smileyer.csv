@@ -1,14 +1,16 @@
 ,cvrnr,pnr,navn,seneste_kontrol,kontrol_dato_str,navnelbnr,url,adresse,postnr,by
-0,45357260,1031025911,City Biksen ,4,10-03-2026 00:00:00,1481183,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1481183,Rugløkkevej 16  ,5240,Odense NØ
-1,46011058,1031831055,SpotBox ApS ,4,27-04-2026 00:00:00,1508081,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1508081,Heliosvænget 10  ,5250,Odense SV
-2,38194046,1030768600,Stop Spild Lokalt (Odense) ,4,27-04-2026 00:00:00,1468210,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1468210,Juelsmindevej 39  ,5200,Odense V
+0,46011058,1031831055,SpotBox ApS ,4,27-04-2026 00:00:00,1508081,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1508081,Heliosvænget 10  ,5250,Odense SV
+1,38194046,1030768600,Stop Spild Lokalt (Odense) ,4,27-04-2026 00:00:00,1468210,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1468210,Juelsmindevej 39  ,5200,Odense V
+2,45357260,1031025911,City Biksen ,4,10-03-2026 00:00:00,1481183,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1481183,Rugløkkevej 16  ,5240,Odense NØ
 3,45148084,1031413431,EuroMix Odense ,4,19-05-2026 00:00:00,1485972,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1485972,Juelsmindevej 11  ,5200,Odense V
-4,30884507,1013753632,Dang Ved Brønden ,4,30-04-2026 00:00:00,83527,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=83527,Torvet  5  ,5600,Faaborg
+4,45464024,1031155637,La Cucina ,4,19-05-2026 00:00:00,1482318,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1482318,Skibhusvej 104 st ,5000,Odense C
 5,45473384,1031168712,Wok Day ,4,18-05-2026 00:00:00,1484049,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1484049,Grønløkkevej 4  ,5000,Odense C
-6,44075571,1029342578,Sundt&sulten  ,4,29-05-2026 00:00:00,1356432,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1356432,Frederiksgade 13 kld ,5700,Svendborg
-7,45464024,1031155637,La Cucina ,4,19-05-2026 00:00:00,1482318,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1482318,Skibhusvej 104 st ,5000,Odense C
-8,41104341,1025483789,Strandcafeen Hesselbjerg  ,4,05-08-2025 00:00:00,941366,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=941366,Østersøvej 12  ,5932,Humble
-9,44543435,1029976437,OK TO GO ApS ,4,01-05-2026 00:00:00,1444663,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1444663,Fangelvej 74  ,5260,Odense S
-10,42469521,1031720873,Pakashala- Tråden ,4,03-06-2026 00:00:00,1523591,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1523591,Gl Banegårdsvej 29  ,5500,Middelfart
-11,46063325,1031897110,Bar tapas ,4,30-04-2026 00:00:00,1515047,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1515047,Jernbanegade 17  ,5000,Odense C
-12,39365901,1032117127,Tandoori BBQ ,4,28-05-2026 00:00:00,1578031,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1578031,Seebladsgade 21  ,5000,Odense C
+6,42469521,1031720873,Pakashala- Tråden ,4,03-06-2026 00:00:00,1523591,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1523591,Gl Banegårdsvej 29  ,5500,Middelfart
+7,39817608,1028596509,Horne Pizza ,4,09-06-2026 00:00:00,1252742,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1252742,Hornelandevej 21A  ,5600,Faaborg
+8,44075571,1029342578,Sundt&sulten  ,4,29-05-2026 00:00:00,1356432,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1356432,Frederiksgade 13 kld ,5700,Svendborg
+9,46063325,1031897110,Bar tapas ,4,30-04-2026 00:00:00,1515047,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1515047,Jernbanegade 17  ,5000,Odense C
+10,41104341,1025483789,Strandcafeen Hesselbjerg  ,4,05-08-2025 00:00:00,941366,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=941366,Østersøvej 12  ,5932,Humble
+11,30884507,1013753632,Dang Ved Brønden ,4,30-04-2026 00:00:00,83527,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=83527,Torvet  5  ,5600,Faaborg
+12,42451622,1032392616,Phú Yên Restaurant ,4,09-06-2026 00:00:00,1579660,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1579660,Skibhusvej 66  ,5000,Odense C
+13,39365901,1032117127,Tandoori BBQ ,4,28-05-2026 00:00:00,1578031,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1578031,Seebladsgade 21  ,5000,Odense C
+14,44543435,1029976437,OK TO GO ApS ,4,01-05-2026 00:00:00,1444663,http://www.findsmiley.dk/da-DK/Searching/DetailsView.htm?virk=1444663,Fangelvej 74  ,5260,Odense S
